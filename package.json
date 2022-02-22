@@ -1,0 +1,14 @@
+{
+  "name": "crud-for-server",
+  "version": "1.0.0",
+  "description": "This is a devs app",
+  "main": "index.js",
+  "scripts": {
+    "devs": "json-server --watch db.json --port 5151"
+  },
+  "author": "Masudur Rahman",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

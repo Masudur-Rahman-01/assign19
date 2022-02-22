@@ -1,0 +1,28 @@
+{
+  "developers": [
+
+  
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "name": "React Developer"
+    },
+    {
+      "id": 2,
+      "name": "Python Developer"
+    },
+    {
+      "id": 3,
+      "name": "BlockChain Developer"
+    },
+    {
+      "id": 4,
+      "name": "Java Developer"
+    },
+    {
+      "id": 5,
+      "name": "MERN Stack Developer"
+    }
+  ]
+}
